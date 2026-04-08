@@ -25,3 +25,4 @@ logs
 .env.*
 !.env.example
 ecosystem.config.js
+ecosystem.config.cjs
