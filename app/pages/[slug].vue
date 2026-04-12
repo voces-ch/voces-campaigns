@@ -101,7 +101,6 @@ onMounted(() => {
         campaignUuid: pageData.value.campaign_uuid,
         theme: pageData.value.theme || "minimal",
         locale: pageData.value.locale || "de",
-        showProgress: true,
       });
     } else {
       console.error("voces widget script not loaded or page data missing");
